@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
